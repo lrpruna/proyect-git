@@ -9,6 +9,10 @@ a {
   color: orangered;
 }
 
+a:hover {
+  color: orange;
+}
+
 img {
   max-width: 100%;
 }
